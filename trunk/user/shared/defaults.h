@@ -30,17 +30,17 @@
 #define SYS_USER_NOBODY		"nobody"
 #define SYS_GROUP_NOGROUP	"nogroup"
 
-#define DEF_LAN_ADDR		"192.168.123.1"
-#define DEF_LAN_DHCP_BEG	"192.168.123.2"
-#define DEF_LAN_DHCP_END	"192.168.8.244"
+#define DEF_LAN_ADDR		"192.168.68.1"
+#define DEF_LAN_DHCP_BEG	"192.168.68.2"
+#define DEF_LAN_DHCP_END	"192.168.68.244"
 #define DEF_LAN_MASK		"255.255.255.0"
 
 #define DEF_WLAN_2G_CC		"CN"
 #define DEF_WLAN_5G_CC		"CN"
 #define DEF_WLAN_2G_SSID	"PDCN"
 #define DEF_WLAN_5G_SSID	"PDCN_5G"
-#define DEF_WLAN_2G_GSSID	"sunnygu_GUEST"
-#define DEF_WLAN_5G_GSSID	"sunnygu_GUEST_5G"
+#define DEF_WLAN_2G_GSSID	"GUEST"
+#define DEF_WLAN_5G_GSSID	"GUEST_5G"
 #define DEF_WLAN_2G_PSK		"1234567890"
 #define DEF_WLAN_5G_PSK		"1234567890"
 
