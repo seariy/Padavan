@@ -1,4 +1,3 @@
-/* NEWIFI3(d2) */
 
 #define BOARD_PID		"JDC-1"
 #define BOARD_NAME		"JDC-1"
