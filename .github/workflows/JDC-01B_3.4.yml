@@ -1,5 +1,5 @@
 #JDC-1
-name: Build Padavan
+name: JDC-01B_3.4
 
 on: 
   workflow_dispatch:
